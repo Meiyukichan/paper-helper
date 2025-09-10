@@ -1,0 +1,13 @@
+.git
+.vscode
+.env
+log
+src
+test
+out/test
+resource/paper-helper/venv
+.gitignore
+*.vsix
+*.log
+**/tsconfig.json
+**/*.ts
